@@ -169,7 +169,7 @@ transition:.3s; color:#fff;}
 
 /* index_banner */
 
-.index_banner{ width:100%; background:url(../images/index_banner_bg.jpg) no-repeat center bottom; background-size:cover; padding: 70px 0 185px;}
+.index_banner{ width:100%; background:url(../images/index_banner_bg.jpg) no-repeat center bottom; background-size:cover; padding:;}
 
 .index_banner_slider{ width:100%; text-align:left; position:relative; padding-top:80px;}
 .index_banner_slider .bs-slider{ max-height: none; background:none;}
